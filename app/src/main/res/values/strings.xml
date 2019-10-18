@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="titre">Office 365</string>
+    <string-array name="l_text">
+        <item>Word</item>
+        <item>Excel</item>
+        <item>PowerPoint</item>
+        <item>Outlook</item>
+    </string-array>
+    <string-array name="l_desc">
+        <item>Editeur text</item>
+        <item>Tableur</item>
+        <item>logiciel de presentation</item>
+        <item>client de courrir electronique</item>
+    </string-array>
+</resources>
